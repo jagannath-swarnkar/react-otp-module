@@ -9,7 +9,7 @@ A fully customizable, one-time password input component for the web built with R
 
 ![see here](https://media.giphy.com/media/lN98dFU6h3oP0wWS5x/giphy.gif)
 
-[Live Demo](https://5xixc0.csb.app/)
+[Live Demo](https://jagannath-swarnkar.github.io/react-otp-module/)
 
 [CodeSandbox](https://codesandbox.io/s/react-opt-module-5xixc0)
 

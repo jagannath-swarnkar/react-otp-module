@@ -1,6 +1,6 @@
 {
   "name": "react-otp-module",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "This library is for OTP input with some customizations",
   "author": "jagannath-swarnkar",
   "license": "MIT",
