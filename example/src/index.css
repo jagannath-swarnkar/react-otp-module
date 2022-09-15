@@ -13,6 +13,20 @@ code {
     monospace;
 }
 
+.App{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #eff0f4;
+
+}
+.card{
+  height: 300px;
+  width: 100%;
+  max-width: 500px;
+}
 
 /* input.otp__input{
   text-align: center;
